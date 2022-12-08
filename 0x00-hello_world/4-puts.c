@@ -6,8 +6,9 @@
 #include <stdio.h>
 
 /**
- * This is where i start to code
+ * main - This is where i start to code
  *
+ * Return: Always 0 (Success)
  */
 
 int main(void)
