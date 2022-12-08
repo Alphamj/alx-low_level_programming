@@ -1,12 +1,7 @@
-/**
- * Using puts
- *
- */
-
 #include <stdio.h>
 
 /**
- * main - This is where i start to code
+ * main - Entry point
  *
  * Return: Always 0 (Success)
  */
