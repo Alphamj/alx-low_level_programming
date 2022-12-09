@@ -1,5 +1,5 @@
 #!/bin/bash
-read $msg
+read msg
 git add .
 git commit -m "$msg"
 git push
