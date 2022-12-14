@@ -5,7 +5,7 @@
  * @nld: number's last digit
  * Return: returns a value
  */
-int number_last_digit(int nld)
+int print_last_digit(int nld)
 {
 	int pld;
 
