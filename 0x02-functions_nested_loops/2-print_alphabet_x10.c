@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * print_alphabet_10x - Prints 10x the alphabet
+ * print_alphabet_x10 - Prints 10x the alphabet
  *
  * Return: 10x a-z
  */
-void print_alphabet_10x(void)
+void print_alphabet_x10(void)
 {
 	int n, co;
 
